@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aditya Bagri
-- I’m an Indraprastha Institute of Information Technology, Delhi sophomore.
+- I’m a 2026 Batch student at Indraprastha Institute of Information Technology, Delhi.
 - I’m currently pursuing B.Tech in Computer Science and Artificial Intelligence.
 - My interests are Artificial Intelligence, Web Development and App Development.
 - LinkedIn : [@adityabagrii](https://www.linkedin.com/in/adityabagrii/)
