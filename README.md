@@ -8,6 +8,7 @@ I'm a passionate Computer Science and Artificial Intelligence student at Indrapr
 - 💼 Actively seeking opportunities for internships and projects in AI, Web, and App Development.
 - 🌱 Constantly learning and exploring new technologies to enhance my skills.
 - 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/adityabagrii/)
+- 📫 Reach me at [Instagram](https://www.instagram.com/adityabagrii)
 
 ## Interests
 
