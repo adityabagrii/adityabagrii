@@ -1,8 +1,19 @@
-- 👋 Hi, I’m Aditya Bagri
-- I’m a 2026 Batch student at Indraprastha Institute of Information Technology, Delhi.
-- I’m currently pursuing B.Tech in Computer Science and Artificial Intelligence.
-- My interests are Artificial Intelligence, Web Development and App Development.
-- LinkedIn : [@adityabagrii](https://www.linkedin.com/in/adityabagrii/)
+# Hi there, I'm Aditya Bagri! 👋
+
+I'm a passionate Computer Science and Artificial Intelligence student at Indraprastha Institute of Information Technology, Delhi (Class of 2026).
+
+## About Me
+
+- 🎓 Currently pursuing B.Tech in Computer Science and Artificial Intelligence.
+- 💼 Actively seeking opportunities for internships and projects in AI, Web, and App Development.
+- 🌱 Constantly learning and exploring new technologies to enhance my skills.
+- 📫 Reach me at [LinkedIn](https://www.linkedin.com/in/adityabagrii/)
+
+## Interests
+
+- Artificial Intelligence
+- Web Development
+- App Development
 
 <!---
 adityabagrii/adityabagrii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
