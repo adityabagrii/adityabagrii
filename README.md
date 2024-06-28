@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a Computer Science and Artificial Intelligence
 
 ### [Rakt - A Blood Donation Platform](https://github.com/adityabagrii/Project-Rakt)
 **Guide:** NA
-
 **Tech Stack:** MongoDB, ReactJS, NextJS, Next-Auth, BcryptJS 
 Developed Rakt, a full-stack platform utilizing Next.js, NextAuth, React, and MongoDB, designed to connect individuals in urgent need of blood with local donors, featuring secure authentication, real-time updates, and a responsive user interface.
 
