@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a Computer Science and Artificial Intelligence
 
 ## 🚀 Projects
 
-### [Portfolio Website](https://adityabagrii.github.io/AdityaBagri-Portfolio/)
-**Tech Stack:** ReactJS, HTML, CSS  
-A sleek, minimalist portfolio website showcasing my skills, projects, and experience. Fully responsive and dynamic.  
-[GitHub Repository](https://github.com/adityabagrii/AdityaBagri-Portfolio)
+### [Rakt - A Blood Donation Platform](https://github.com/adityabagrii/Project-Rakt)
+**Guide:** NA
+**Tech Stack:** MongoDB, ReactJS, NextJS, Next-Auth, BcryptJS 
+Developed Rakt, a full-stack platform utilizing Next.js, NextAuth, React, and MongoDB, designed to connect individuals in urgent need of blood with local donors, featuring secure authentication, real-time updates, and a responsive user interface.
 
 ### [Sales Prediction Model](https://github.com/adityabagrii/Sales-Prediction-Model)
 **Guide:** A V Subramanyam  
@@ -18,6 +18,11 @@ A model to predict the sales of an item using previous sales data, aimed at boos
 **Tech Stack:** MongoDB, ExpressJS, ReactJS, HTML, CSS, JavaScript  
 A responsive and secure password manager web application enabling users to store, edit, and delete passwords with a user-friendly interface. Features include copying data to the clipboard and designed alerts using the Toastify library.  
 [Live Demo](https://adityabagrii.github.io/YourPass/)
+
+### [Portfolio Website](https://adityabagrii.github.io/AdityaBagri-Portfolio/)
+**Tech Stack:** ReactJS, HTML, CSS  
+A sleek, minimalist portfolio website showcasing my skills, projects, and experience. Fully responsive and dynamic.  
+[GitHub Repository](https://github.com/adityabagrii/AdityaBagri-Portfolio)
 
 ### [Client Side Web Player - Apple Music Clone](https://github.com/adityabagrii/Apple-Music-Clone)
 **Tech Stack:** HTML, CSS, JavaScript  
