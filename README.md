@@ -46,7 +46,7 @@ A Stick Hero game implemented using Java OOPs concepts with dynamic background, 
 **Tech Stack:** C  
 A custom memory management system (MeMS) using `mmap` and `munmap` for memory allocation and deallocation.
 
-### [Assembler and Simulator for a given ISA](https://github.com/adityabagrii)
+### Assembler and Simulator for a given ISA
 **Guide:** Dr. Sujay Deb  
 **Tech Stack:** Python  
 Built a virtual assembler and simulator for a given ISA with a group of 4 people using GitHub repositories for collaboration.
