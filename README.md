@@ -51,6 +51,9 @@ A custom memory management system (MeMS) using `mmap` and `munmap` for memory al
 **Tech Stack:** Python  
 Built a virtual assembler and simulator for a given ISA with a group of 4 people using GitHub repositories for collaboration.
 
+## :fire My GitHub Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ## 🛠️ Skills
 
 - **Programming Languages:** Python, C++, C, Java, HTML, CSS, Tailwind CSS, JavaScript, SQL, ReactJS
