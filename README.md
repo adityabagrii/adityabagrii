@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a Computer Science and Artificial Intelligence
 
 ## 🚀 Projects
 ### [Bank Telemarketing Prediction Model](https://github.com/adityabagrii/ML-Project/blob/main/Project_Report_Endsem_51.pdf)
-**Tech Stack:** Python, Scikit Learn
+**Tech Stack:** Python, Scikit Learn<br>
 Developed predictive models for bank telemarketing success using Logistic Regression, Random Forests, XGBoost, and Multi-Layer Perceptrons, achieving 91% accuracy with XGBoost. Implemented advanced preprocessing and feature engineering to address class imbalance and improve model performance.
 
 ### [Extracting diagnosis pathways from EHR using Deep Reinforcement Learning](https://github.com/adityabagrii/RL_Project-Extracting-Diagnosis-Pathways-from-EHR-using-DRL)
