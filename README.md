@@ -3,6 +3,14 @@
 Welcome to my GitHub profile! I'm a Computer Science and Artificial Intelligence (CSAI) student at the Indraprastha Institute of Information Technology, Delhi (IIITD), with a passion for web development, problem-solving, and machine learning. Here's a little more about me and my work:
 
 ## 🚀 Projects
+### [Bank Telemarketing Prediction Model](https://github.com/adityabagrii/ML-Project/blob/main/Project_Report_Endsem_51.pdf)
+**Tech Stack:** Python, Scikit Learn
+Developed predictive models for bank telemarketing success using Logistic Regression, Random Forests, XGBoost, and Multi-Layer Perceptrons, achieving 91% accuracy with XGBoost. Implemented advanced preprocessing and feature engineering to address class imbalance and improve model performance.
+
+### [Extracting diagnosis pathways from EHR using Deep Reinforcement Learning](https://github.com/adityabagrii/RL_Project-Extracting-Diagnosis-Pathways-from-EHR-using-DRL)
+**Tech Stack:** Python, Stable-Baselines, DQN
+Developed a Deep Q-Learning (DQN) model to predict diagnostic outcomes and extract decision pathways from Electronic Health Records (EHR), ensuring interpretability in healthcare decisions. Implemented a custom reward structure and state-action space to optimize decision-making, achieving high accuracy and pathway explainability.
+
 ### [SignGPT - Convert text to sign language](https://github.com/adityabagrii/SignGPT) - [Click here for webpage](https://signgpt.onrender.com)
 **Tech Stack:** Llama3, Stable Diffusion XL, HuggingFace Spaces, Python, Flask, HTML, CSS
 Developed a web application that converts text prompts to sign language using advanced NLP and image generation technologies. Utilized Llama 3 for NLP to generate sign language instructions and Stable Diffusion XL to create corresponding images. Built the application using Flask, Python, HTML, CSS, and JavaScript, and integrated HuggingFace APIs and HuggingFace Spaces to enhance model performance and deployment.
