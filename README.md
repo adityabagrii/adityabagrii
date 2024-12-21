@@ -96,6 +96,6 @@ Percentage: 93.4
 
 ## 📫 Contact
 
-- **Email:** [aditya22029@iiitd.ac.in](mailto:aditya22029@iiitd.ac.in)
+- **Email:** [adityabagrii.work@gmail.com](mailto:adityabagrii.work@gmail.com)
 
 Thank you for visiting my profile! Feel free to explore my repositories and connect with me.
