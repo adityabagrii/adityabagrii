@@ -82,7 +82,7 @@ Built a virtual assembler and simulator for a given ISA with a group of 4 people
 **Indraprastha Institute of Information Technology, Delhi**  
 B.Tech (CSAI)  
 2022 – (Present)  
-CGPA: 7.42 (till 4th Semester)
+CGPA: 7.45 (till 6th Semester)
 
 **Adarsh Jain Dharmik Shiksha Sadan, New Delhi**  
 CBSE (Class XII)  
