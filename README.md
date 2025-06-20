@@ -3,6 +3,12 @@
 Welcome to my GitHub profile! I'm a Computer Science and Artificial Intelligence (CSAI) student at the Indraprastha Institute of Information Technology, Delhi (IIITD), with a passion for web development, problem-solving, and machine learning. Here's a little more about me and my work:
 
 ## 🚀 Projects
+### [Gendered Bias Abuse Detection in Indic Languages (English, Hindi and Tamil)](https://github.com/adityabagrii/G28-NLP-Project)
+**Tech Stack:** Python, HuggingFace, CNNs, Attention Heads, LSTMs, IndicBERT
+- Improved SOTA model’s architecture to improve abusive content classification in Hindi, English and Tamil.
+- Improved contextual understanding of the model by replacing LSTMs with Attention Heads.
+- Delivered state-of-the-art F1 score improvement (surpassed existing benchmarks by 2%).
+  
 ### [Bank Telemarketing Prediction Model](https://github.com/adityabagrii/ML-Project/blob/main/Project_Report_Endsem_51.pdf)
 **Tech Stack:** Python, Scikit Learn<br>
 - Developed predictive models for bank telemarketing success using Logistic Regression, Random Forests, XGBoost, and Multi-Layer Perceptrons, achieving 91% accuracy with XGBoost.
